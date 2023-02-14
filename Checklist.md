@@ -15,18 +15,34 @@
 
  
 # Elevator
+- [ ] Left Stick Y-Axis makes the elevator go up and down.
+
+- [ ] Limit Switches work as desired.
+
+- [ ] Y-button actuates pneumatic
+
+ 
 1. goes up and down/stays on track (to test have arm lifted up)
 2. make sure pneumatics work properly/correct speed
 3. make sure chain is good
 4. springs are still working 
 
 # Intake 
+- [ ] Left Bumper: 
+- [ ] Right Bumper:
+- [ ] Left Trigger:
+- [ ] Right Trigger:
+
 1. properly intake/outake a cone
 2. properly intake/outake a block 
 3. chain running properly
 4. intake wheels running in right direction 
 
 # Arm 
+- [ ] Right Stick Y-axis makes the arm move up and down.
+
+- [ ] Limit Switches work as desired.
+
 1. motor on sides of intake is still functioning 
 2. arm moving at correct speed (constant)
 3. arm can move out, up, back all correctly 
