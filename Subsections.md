@@ -28,9 +28,13 @@ Motors: 2
 
 ~~Back follows front.~~
 
-Front Module #:
+Front Fwd_Module #:
 
-Back Module #:
+Front Rev_Module #:
+
+Back Fwd_Module #:
+
+Back Rev_Module #:
 
 
 Speed Controllers: 2
@@ -44,14 +48,20 @@ CAN ID: elevCan (10)
 
 Motors: 1
 
-Module #:
+Fwd_Module #:
 
-Module #:
+Rev_Module #:
 
 Speed Controllers: 1
 
 Limit Switches: 
 
+Elevator Top DIO:
+
+Elevator Bottom DIO:
+	
+	Limit Switches will be wired to act normally closed.
+	
 	We will most likely have 2 position sensors, one on the top and bottom of 
 	the elevator system in addition 1 limit switches that would trigger the
 	switchable output on the power distribution hub.
@@ -68,7 +78,11 @@ Motors: 2
 
 	Right follows left.
 
-Limit Switches: 1
+Limit Switches: 
+
+Arm Top DIO:
+
+Arm Bottom DIO:
 
 	In order to limit the upward travel and possibly the downward travel.
 

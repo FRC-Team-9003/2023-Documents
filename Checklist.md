@@ -6,6 +6,9 @@
 
 
 # Drive Train
+- [ ] Joystick Trigger enables secret drive.
+
+ 
  1. when the joystick is moved, wheels go forward, backward, sideways, rotate (set robot on blocks to test wheels)
  2. secret wheels go up and down properly and do their job (increase friction, still drivable)
  3. speed is good, robot goes in correct direction, drives smoothly
