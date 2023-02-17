@@ -19,7 +19,7 @@
 
 - [ ] Limit Switches work as desired.
 
-- [ ] Y-button actuates pneumatic
+- [ ] Joystick button 2 actuates pneumatic
 
  
 1. goes up and down/stays on track (to test have arm lifted up)
