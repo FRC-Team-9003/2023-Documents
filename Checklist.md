@@ -28,10 +28,10 @@
 4. springs are still working 
 
 # Intake 
-- [ ] Left Bumper: 
-- [ ] Right Bumper:
-- [ ] Left Trigger:
-- [ ] Right Trigger:
+- [ ] Left Bumper: Cube Intake
+- [ ] Right Bumper: Cone Intake
+- [ ] Left Trigger: Cube Drop
+- [ ] Right Trigger: Cone Drop
 
 1. properly intake/outake a cone
 2. properly intake/outake a block 
